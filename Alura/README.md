@@ -32,3 +32,21 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Introdução à Experimentação: Análise de experimentos
 	- Data Science: Análises para saúde e medicina
 	- Data Science: Visualização de dados para saúde e medicina
+
+- Alura DotNet CSharp
+	- C# parte 1: Primeiros passos
+	- C# parte 2: Introdução à orientação a objetos
+	- C# parte 3: Entendendo herança e interface
+	- C# parte 4: Entendendo exceções
+	- C# parte 5: Bibliotecas DLL's, documentação e usando NuGet
+	- C# parte 6: Strings, expressões regulares e a classe Object
+	- C# parte 7: Array e tipos genéricos
+	- C# parte 8: List, lambda, linq
+	- C# parte 9: Entrada e saída (I/O) com streams
+	- Entity Framework Core: Banco de dados de forma eficiente
+	- ASP.NET Core: Uma webapp usando o padrão MVC
+	- ASP.NET Core parte 1: Um e-commmerce com MVC e EF Core
+	- ASP.NET Core parte 2: Um e-commmerce com MVC e EF Core
+
+- Alura Estatística Python
+	- 
