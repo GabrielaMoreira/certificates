@@ -17,7 +17,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Habilitadores COBIT 5
 	- Implementação e avaliação de processos
 	
-- Alura Data Science
+- Alura_Data_Science
 	- Data Sciences: Primeiros passos
 	- Python Pandas: Tratando e analisando dados
 	- Estatística com Python parte 1: Frequência e Medidas
@@ -33,7 +33,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Data Science: Análises para saúde e medicina
 	- Data Science: Visualização de dados para saúde e medicina
 
-- Alura DotNet CSharp
+- Alura_Dot_Net_CSharp
 	- C# parte 1: Primeiros passos
 	- C# parte 2: Introdução à orientação a objetos
 	- C# parte 3: Entendendo herança e interface
@@ -48,7 +48,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- ASP.NET Core parte 1: Um e-commmerce com MVC e EF Core
 	- ASP.NET Core parte 2: Um e-commmerce com MVC e EF Core
 
-- Alura Estatística Python
+- Alura_Estatistica_Python
 	- Data Science: Introdução a testes estatísticos com Python
 	- Estatística com Python parte 1: Frequência e Medidas
 	- Estatística com Python parte 2: Probabilidade e amostragem
@@ -58,5 +58,12 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Regressão Linear: Testando relações e prevendo resultados
 	- Regressão Linear: Técnicas avançadas de modelagem
 
-- Alura Excel VBA
-	-
+- Alura_Excel_VBA
+	- Funções com Excel: Operações matemáticas
+	- Excel: Domine o editor de planilhas
+	- Excel Procv: Lógica booleana e busca por valores
+	- Excel: Tabelas dinâmicas e dashboards
+	- Excel: Criação de macros e automatização de tarefas
+	- Excel: Personalizando e automatizando tarefas com VBA
+	- Excel: Simulação e análise de cenários
+	- Análise de dados: Introdução com excel
