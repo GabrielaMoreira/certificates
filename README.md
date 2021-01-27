@@ -1,7 +1,5 @@
 ## Sobre
-<p>
 Repositório pessoal para armazenamento de certificados, diplomas e outras conquistas acadêmicas.
-</p>
 ## Estrutura dos diretorios
 1. Certificados emitidos por escolas online:
 	- nome da escola
