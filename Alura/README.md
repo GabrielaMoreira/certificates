@@ -49,4 +49,14 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- ASP.NET Core parte 2: Um e-commmerce com MVC e EF Core
 
 - Alura Estatística Python
-	- 
+	- Data Science: Introdução a testes estatísticos com Python
+	- Estatística com Python parte 1: Frequência e Medidas
+	- Estatística com Python parte 2: Probabilidade e amostragem
+	- Estatística com Python parte 3: Teste de hipóteses
+	- Estatística com Python parte 4: Correlação e Regressão
+	- Introdução à Experimentação: Análise de experimentos
+	- Regressão Linear: Testando relações e prevendo resultados
+	- Regressão Linear: Técnicas avançadas de modelagem
+
+- Alura Excel VBA
+	-
