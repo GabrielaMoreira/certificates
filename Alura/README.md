@@ -67,3 +67,6 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Excel: Personalizando e automatizando tarefas com VBA
 	- Excel: Simulação e análise de cenários
 	- Análise de dados: Introdução com excel
+	
+- Alura_Git_Versionamento
+	- GIT e GITHUB: Controle e compartilhe seu código
