@@ -70,3 +70,13 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	
 - Alura_Git_Versionamento
 	- GIT e GITHUB: Controle e compartilhe seu código
+
+- Alura_MySQL
+	- Introdução ao SQL com MySQL: Manipule e consulte dados
+	- Consultas SQL: Avançando no SQL com MySQL
+	- Comandos DML: Manipulação de dados com MySQL
+	- Procedures SQL: Executando código no MySQL
+	- Administração do MySQL: Segurança e otimização do banco
+
+- Alura_PHP
+	- 
