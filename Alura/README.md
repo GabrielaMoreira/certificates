@@ -87,4 +87,20 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Administração do MySQL: Segurança e otimização do banco
 
 - Alura_PHP
-	- 
+	- Introdução ao PHP: Primeiros passos com a linguagem
+	- Avançando com PHP: Arrays, Strings, Função e Web
+	- Orientação a Objetos com PHP: Classes, métodos e atributos
+	- Abançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+	- PHP: Manipulando coleções com Arrays
+	- PHP Exceptions:Tratamento de erros
+	- PHP Composer: Dependências, Autoload e Publicação
+	- PHP e PDO: Trabalahndo com banco de dados
+	- Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional
+	- MVC com PHP: Entenda o padão Model-View-Controller
+	- Laravel parte 1: Produtividade no desenvolvimento web
+	- Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes
+	- Lumen: API Rest com o Micro-framework do Laravel
+
+-Alura_Power_BI
+	-
+
