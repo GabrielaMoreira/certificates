@@ -3,6 +3,7 @@
 Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo de pesquisa do navegador) e digite o curso de interesse.
 
 - Alura_Angular
+	-
 	- TypeScript 1
 	- TypeScript 2
 	- Webpack
@@ -12,12 +13,14 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Angular: Lapidando o projeto
 	
 - Alura_COBIT5
+	-
 	- Introdução a governaça corporativa
 	- Principios do COBIT 5
 	- Habilitadores COBIT 5
 	- Implementação e avaliação de processos
 	
 - Alura_Data_Science
+	-
 	- Data Sciences: Primeiros passos
 	- Python Pandas: Tratando e analisando dados
 	- Estatística com Python parte 1: Frequência e Medidas
@@ -34,6 +37,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Data Science: Visualização de dados para saúde e medicina
 
 - Alura_Dot_Net_CSharp
+	-
 	- C# parte 1: Primeiros passos
 	- C# parte 2: Introdução à orientação a objetos
 	- C# parte 3: Entendendo herança e interface
@@ -49,6 +53,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- ASP.NET Core parte 2: Um e-commmerce com MVC e EF Core
 
 - Alura_Estatistica_Python
+	-
 	- Data Science: Introdução a testes estatísticos com Python
 	- Estatística com Python parte 1: Frequência e Medidas
 	- Estatística com Python parte 2: Probabilidade e amostragem
@@ -59,6 +64,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Regressão Linear: Técnicas avançadas de modelagem
 
 - Alura_Excel_VBA
+	-
 	- Funções com Excel: Operações matemáticas
 	- Excel: Domine o editor de planilhas
 	- Excel Procv: Lógica booleana e busca por valores
@@ -69,9 +75,11 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Análise de dados: Introdução com excel
 	
 - Alura_Git_Versionamento
+	-
 	- GIT e GITHUB: Controle e compartilhe seu código
 
 - Alura_MySQL
+	-
 	- Introdução ao SQL com MySQL: Manipule e consulte dados
 	- Consultas SQL: Avançando no SQL com MySQL
 	- Comandos DML: Manipulação de dados com MySQL
