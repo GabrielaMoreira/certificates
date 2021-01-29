@@ -107,3 +107,15 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Dashboard com Power BI: Construindo relatórios
 	- DAX e ETL com Power BI: Carregando dados
 	- Power BI Desktop: Carregue, analise e visualize dados
+
+- Alura_SQLServer
+	-
+	- SQL Server: Introdução ao SQL com Microsoft Server 2017
+	- SQL Server: Consultas avançadas com Microsoft SQL Server 2017
+	- SQL Server: Manipulação de dados com Microsoft SQL Server 2017
+	- SQL Server: T-SQL com Microsoft SQL Server 2017
+	- SQL Server: Administração do Microsoft SQL Server 2017
+
+- Alura_UX_Design
+	-
+	
