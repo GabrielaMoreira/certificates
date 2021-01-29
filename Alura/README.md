@@ -36,7 +36,7 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Data Science: Análises para saúde e medicina
 	- Data Science: Visualização de dados para saúde e medicina
 
-- Alura_Dot_Net_CSharp
+- Alura_DotNet_CSharp
 	-
 	- C# parte 1: Primeiros passos
 	- C# parte 2: Introdução à orientação a objetos
