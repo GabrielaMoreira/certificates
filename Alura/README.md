@@ -118,4 +118,19 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 
 - Alura_UX_Design
 	-
-	
+	- UX: O que é experiência de usuário
+	- UX Strategy: Divergindo e afunilando ideias
+	- UX Usability: Facilite a vida do seu usuário no mobile
+	- UX Produto: Monitore, mensure e teste o seu projeto
+	- Introdução ao Design System: Escalando seu produto
+	- Design Thinking: Concretizando ideias
+	- Revisão UX: Ferramentas do briefing ao protótipo
+	- UX: Os erros frequentes de usabilidade e as boas práticas
+	- UI Design Patterns: Usabilidade em interfaces mobile
+	- Prototipagem e UX parte 1: Alta fidelidade com o Aodbe XD
+	- Prototipagem e UX parte 2: Linkando telas no Adobe XD
+	- Teste de Usabilidade parte 1: Seu produto é fácil de usar?
+	- Teste de Usabilidade parte 2: Mensurando e entregando resultados
+
+- Alura_Wordpress
+	- 
