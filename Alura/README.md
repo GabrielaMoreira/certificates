@@ -134,3 +134,12 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 
 - Alura_Wordpress
 	- 
+	- Wordpress: Sites com Elementor
+	- Wordpress: Integração whatsapp e internacionalização
+	- Introdução ao PHP: Primeiros passos com a linguagem
+	- Avançando com PHP: Arrays, Strings, Função e Web
+	- Wordpress: Criação de um tema personalizado
+	- Plugin no Wordpress: Widget, shortcode e configurações
+	- SEO Wordpress: Otimize o ranqueamento do seu site
+
+
