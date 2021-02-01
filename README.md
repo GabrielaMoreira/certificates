@@ -5,7 +5,7 @@ Repositório pessoal para armazenamento de certificados, diplomas e outras conqu
 	- nome da escola
 	- nome da escola, seguido por undeline, seguido por nome do curso
 2. Olimpiadas
-	- diretorio compartilhado (cada arquivo contendo o nome do local e modalidade da olimpiada)
+	- diretorio compartilhado (cada arquivo contendo o nome e modalidade da olimpiada)
 3. Lingua_Estrangeira
 	- diretorio compartilhado (cada arquivo contendo idioma, tipo de teste e nivel de proficiencia)
 4. Superior
