@@ -142,10 +142,20 @@ Dica: para pesquisar por um curso espefico precione CTRL + F5 (abrir mecanismo d
 	- Plugin no Wordpress: Widget, shortcode e configurações
 	- SEO Wordpress: Otimize o ranqueamento do seu site
 
-- ALura_UX_Design_21
+- Alura_UX_Design_21
 	-
 	- Fundamentos de UX: Entendendo a experiência de usuário
 	- UX Strategy: Divergindo e afunilando ideias
 	- UX Usability: Facilite a vida do seu usuário no mobile
 	- UX Produto: Monitore, Mensure e teste o seu projeto
 	- Figma: Design Visual de um site mobile
+
+- Alura_AspNet_Resp_Api
+	-
+	- APIs Rest com Asp.NET Core 2.1 Parte 1: Da app MVC para API
+	- APIs Rest com Asp.NET Core 2.1 Parte 2: Consumindo nossa API
+	- APIs Rest com Asp.NET Core 2.1 Parte 3: Padronizando a API
+	- Entity Framework Core: Banco de dados de forma eficiente
+	- Entity Framework Core Parte 1: Mapeando um banco pré-existente
+	- Entity Framework Core Parte 2: Mapeando um banco pré-existente
+	- Mocks em C#: Teste de integração com xUnit e Moq
